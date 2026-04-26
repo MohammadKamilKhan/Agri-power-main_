@@ -1,6 +1,6 @@
 # AgriPower - Electric Power Distribution for Agriculture
 
-> **Full-Stack MERN Application** | Created by **Sharook**
+> **Full-Stack MERN Application** | Created by **Mohammad Kamil Khan**
 
 A complete web application for managing electricity distribution to agricultural regions and farmers. Features include region management, power scheduling, usage tracking, billing reports, and complaint management.
 
